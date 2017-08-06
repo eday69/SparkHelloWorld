@@ -1,0 +1,4 @@
+# exclude these two folders
+/project
+/target
+
